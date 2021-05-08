@@ -20,6 +20,8 @@ Windows: `py -m trafficlights`
 Macos et Linux: `python3 -m pytest`<br>
 Windows: `py -m pytest`
 
+(Pour installer pytest : `sudo apt install python3-pytest`)
+
 ## exemple d'utilisation
 ```shell script
 jcg@JCG-LNV:/mnt/d/work/trafficlights$ python3 -m trafficlights
